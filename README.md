@@ -75,8 +75,8 @@ const azni = {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-two-wine.vercel.app/api?username=ItsAzni&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" height="160" />
-  <img src="https://github-readme-stats-two-wine.vercel.app/api/top-langs?username=ItsAzni&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsAzni&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsAzni&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" height="160" />
 </div>
 
 <div align="center">
